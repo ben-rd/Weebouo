@@ -15,7 +15,7 @@ def addnoise(img):
     img = img.resize((200,200),Image.LANCZOS)
     return img
 
-dir_path = r"C:\Users\Jun Sern\Desktop\ROV Project\Python_Work\16072019"
+dir_path = r"C: filepath\filename"
 
 ext = ('png', 'PNG', 'jpg', 'JPG', 'jpeg', 'JPEG', 'tif', 'TIF', 'tiff', 'TIFF')
 
